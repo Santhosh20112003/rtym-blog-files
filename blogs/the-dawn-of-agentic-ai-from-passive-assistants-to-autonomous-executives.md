@@ -2,7 +2,7 @@
 title: 'The Dawn of Agentic AI: From Passive Assistants to Autonomous Executives'
 slug: the-dawn-of-agentic-ai-from-passive-assistants-to-autonomous-executives
 date: '2026-05-29T10:57:41.008Z'
-updatedAt: '2026-05-29T10:57:41.008Z'
+updatedAt: '2026-05-29T11:14:01.707Z'
 updatedBy: Santhosh Shanmugam
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
