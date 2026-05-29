@@ -2,7 +2,7 @@
 title: 'The Dawn of Agentic AI: From Passive Assistants to Autonomous Executives'
 slug: the-dawn-of-agentic-ai-from-passive-assistants-to-autonomous-executives
 date: '2026-05-29T10:57:41.008Z'
-updatedAt: '2026-05-29T11:14:01.707Z'
+updatedAt: '2026-05-29T11:15:06.141Z'
 updatedBy: Santhosh Shanmugam
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
@@ -19,7 +19,8 @@ tags:
   - reasoning
   - memory
   - world
-cover: ''
+cover: >-
+  https://raw.githubusercontent.com/Santhosh20112003/rtym-blog-files/main/assets/images/1780052934596-Gemini_Generated_Image_5s4vi55s4vi55s4v.png?updatedAt=1780052960921
 canonical: >-
   https://www.rtymaiworks.com/blog/the-dawn-of-agentic-ai-from-passive-assistants-to-autonomous-executives
 seoTitle: 'The Dawn of Agentic AI: From Passive Assistants to Autonomous Executives'
@@ -28,16 +29,13 @@ seoDescription: >-
   paradigm shift is underway. For the past few years, the world has been
   captivated by Ge
 seoKeywords:
-  - agent
-  - agentic
-  - autonomous
-  - human
-  - prompt
-  - reasoning
-  - memory
-  - world
-  - long
-  - frameworks
+  - agent agentic ai
+  - agent agentic workflow
+  - agent agentic github
+  - agentic agent development
+  - agentic agent development with mcp
+  - agentic agent icon
+  - agentic agent meaning
 ---
 
 # The Dawn of Agentic AI: From Passive Assistants to Autonomous Executives
@@ -62,7 +60,7 @@ Unlike traditional automated scripts, which follow rigid `if/then` pathways, Age
 
 To understand how Agentic AI works, it helps to look at the architectural framework that transforms a standard LLM into an autonomous agent. Generally, an agent consists of four core components:
 
-
+![1780052930273 Gemini Generated Image 5s4vi55s4vi55s4v (1)](https://raw.githubusercontent.com/Santhosh20112003/rtym-blog-files/main/assets/images/1780052930273-Gemini_Generated_Image_5s4vi55s4vi55s4v-(1).png)
 
 ### 1. The Core LLM (The Brain)
 The foundational LLM serves as the central engine for reasoning, understanding semantics, and decision-making. 
