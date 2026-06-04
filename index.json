@@ -97,5 +97,40 @@
       "centralized",
       "compliance"
     ]
+  },
+  {
+    "title": "Astra Blogs Library Documentation",
+    "slug": "astra-blogs-library-documentation",
+    "date": "2026-06-04T13:29:54.004Z",
+    "updatedAt": "2026-06-04T13:29:54.004Z",
+    "updatedBy": "Santhosh Shanmugam",
+    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
+    "description": "astra blogs js library",
+    "tags": [
+      "blog",
+      "blogs",
+      "react",
+      "example",
+      "library",
+      "default",
+      "returns",
+      "index"
+    ],
+    "cover": "",
+    "canonical": "https://astrablogs.vercel.app//blog/astra-blogs-library-documentation",
+    "seoTitle": "Astra Blogs Library Documentation",
+    "seoDescription": "astra blogs js library",
+    "seoKeywords": [
+      "blog",
+      "blogs",
+      "react",
+      "example",
+      "library",
+      "default",
+      "returns",
+      "index",
+      "astrablogslib",
+      "markdown"
+    ]
   }
 ]
