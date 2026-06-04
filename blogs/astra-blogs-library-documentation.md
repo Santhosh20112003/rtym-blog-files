@@ -2,7 +2,7 @@
 title: Astra Blogs Library Documentation
 slug: astra-blogs-library-documentation
 date: '2026-06-04T13:29:54.004Z'
-updatedAt: '2026-06-04T13:29:54.004Z'
+updatedAt: '2026-06-04T13:32:42.851Z'
 updatedBy: Santhosh Shanmugam
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
@@ -16,7 +16,8 @@ tags:
   - default
   - returns
   - index
-cover: ''
+cover: >-
+  https://raw.githubusercontent.com/Santhosh20112003/rtym-blog-files/main/assets/images/1780579926883-Gemini_Generated_Image_irfvy2irfvy2irfv.png?updatedAt=1780579944880
 canonical: https://astrablogs.vercel.app//blog/astra-blogs-library-documentation
 seoTitle: Astra Blogs Library Documentation
 seoDescription: astra blogs js library
