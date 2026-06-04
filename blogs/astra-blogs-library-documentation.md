@@ -2,7 +2,7 @@
 title: Astra Blogs Library Documentation
 slug: astra-blogs-library-documentation
 date: '2026-06-04T13:29:54.004Z'
-updatedAt: '2026-06-04T13:32:42.851Z'
+updatedAt: '2026-06-04T13:36:45.935Z'
 updatedBy: Santhosh Shanmugam
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
@@ -13,9 +13,9 @@ tags:
   - react
   - example
   - library
-  - default
   - returns
   - index
+  - astrablogslib
 cover: >-
   https://raw.githubusercontent.com/Santhosh20112003/rtym-blog-files/main/assets/images/1780579926883-Gemini_Generated_Image_irfvy2irfvy2irfv.png?updatedAt=1780579944880
 canonical: https://astrablogs.vercel.app//blog/astra-blogs-library-documentation
@@ -27,11 +27,11 @@ seoKeywords:
   - react
   - example
   - library
-  - default
   - returns
   - index
   - astrablogslib
   - markdown
+  - yaml
 ---
 
 # Astra Blogs Library Documentation
@@ -66,7 +66,7 @@ It provides built-in support for:
 ### Option 1: Use the script directly in a browser
 
 ```html
-<script src="astra-blogs-lib.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/astra-blogs-lib@2.0.0/astra-blogs-lib.min.js"></script>
 <script>
   const blogsLib = new AstraBlogsLib();
 </script>
@@ -75,14 +75,14 @@ It provides built-in support for:
 ### Option 2: ES Module import
 
 ```javascript
-import AstraBlogsLib from './astra-blogs-lib.js';
+import AstraBlogsLib from 'https://cdn.jsdelivr.net/npm/astra-blogs-lib@2.0.0/astra-blogs-lib.min.js';
 const blogsLib = new AstraBlogsLib();
 ```
 
 ### Option 3: CommonJS import
 
 ```javascript
-const AstraBlogsLib = require('./astra-blogs-lib.js');
+const AstraBlogsLib = require('https://cdn.jsdelivr.net/npm/astra-blogs-lib@2.0.0/astra-blogs-lib.min.js');
 const blogsLib = new AstraBlogsLib();
 ```
 
@@ -100,16 +100,6 @@ const blogsLib = new AstraBlogsLib({
   useCache: true
 });
 ```
-
-### Default Configuration
-
-If no config is provided, the library uses:
-- `owner`: `Santhosh20112003`
-- `repo`: `rtym-blog-files`
-- `branch`: `main`
-- `indexCacheTTL`: 1 hour
-- `contentCacheTTL`: 24 hours
-- `useCache`: true
 
 ## Repository Structure
 
