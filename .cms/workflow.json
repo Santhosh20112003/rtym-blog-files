@@ -1,0 +1,13 @@
+{
+  "cms/draft/blog/astra-blogs-library-documentation": {
+    "slug": "astra-blogs-library-documentation",
+    "collection": "blog",
+    "title": "Astra Blogs Library Documentation",
+    "status": "draft",
+    "authorName": "Santhosh Shanmugam",
+    "authorAvatar": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
+    "lastModified": "2026-06-10T16:57:37.995Z",
+    "branchName": "cms/draft/blog/astra-blogs-library-documentation",
+    "entryPath": "blogs/astra-blogs-library-documentation.md"
+  }
+}
