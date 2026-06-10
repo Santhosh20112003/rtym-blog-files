@@ -1,11 +1,11 @@
 ---
 title: 'Breaking the Silos: Why Modern Businesses Can’t Survive Without PLM'
 slug: breaking-the-silos-why-modern-businesses-cant-survive-without-plm
-date: '2026-06-02T17:07:11.867Z'
-updatedAt: '2026-06-02T17:07:11.867Z'
-updatedBy: Abi Nandhan
+date: '2026-06-11T17:30:00.000Z'
+updatedAt: '2026-06-10T17:19:38.244Z'
+updatedBy: Santhosh Shanmugam
 updatedByPhoto: >-
-  https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c
+  https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
 description: >-
   Imagine this nightmare scenario: Your engineering team updates a 3D product
   model, but the manufacturing plant on the other side of the world builds

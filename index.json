@@ -64,41 +64,6 @@
     ]
   },
   {
-    "title": "Breaking the Silos: Why Modern Businesses Can’t Survive Without PLM",
-    "slug": "breaking-the-silos-why-modern-businesses-cant-survive-without-plm",
-    "date": "2026-06-02T17:07:11.867Z",
-    "updatedAt": "2026-06-02T17:07:11.867Z",
-    "updatedBy": "Abi Nandhan",
-    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c",
-    "description": "Imagine this nightmare scenario: Your engineering team updates a 3D product model, but the manufacturing plant on the other side of the world builds 10,000 unit",
-    "tags": [
-      "product",
-      "system",
-      "data",
-      "time",
-      "management",
-      "strategy",
-      "market",
-      "core"
-    ],
-    "cover": "https://raw.githubusercontent.com/Santhosh20112003/rtym-blog-files/main/assets/images/1780419302446-blog.png",
-    "canonical": "https://astrablogs.vercel.app//blog/breaking-the-silos-why-modern-businesses-cant-survive-without-plm",
-    "seoTitle": "Breaking the Silos: Why Modern Businesses Can’t Survive Without PLM",
-    "seoDescription": "Imagine this nightmare scenario: Your engineering team updates a 3D product model, but the manufacturing plant on the other side of the world builds 10,000 unit",
-    "seoKeywords": [
-      "product",
-      "system",
-      "data",
-      "time",
-      "management",
-      "strategy",
-      "market",
-      "core",
-      "centralized",
-      "compliance"
-    ]
-  },
-  {
     "title": "Astra Blogs Library Documentation",
     "slug": "astra-blogs-library-documentation",
     "date": "2026-06-04T13:29:54.004Z",
@@ -131,6 +96,41 @@
       "astrablogslib",
       "markdown",
       "yaml"
+    ]
+  },
+  {
+    "title": "Breaking the Silos: Why Modern Businesses Can’t Survive Without PLM",
+    "slug": "breaking-the-silos-why-modern-businesses-cant-survive-without-plm",
+    "date": "2026-06-11T17:30:00.000Z",
+    "updatedAt": "2026-06-10T17:19:38.244Z",
+    "updatedBy": "Santhosh Shanmugam",
+    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
+    "description": "Imagine this nightmare scenario: Your engineering team updates a 3D product model, but the manufacturing plant on the other side of the world builds 10,000 unit",
+    "tags": [
+      "product",
+      "system",
+      "data",
+      "time",
+      "management",
+      "strategy",
+      "market",
+      "core"
+    ],
+    "cover": "https://raw.githubusercontent.com/Santhosh20112003/rtym-blog-files/main/assets/images/1780419302446-blog.png",
+    "canonical": "https://astrablogs.vercel.app//blog/breaking-the-silos-why-modern-businesses-cant-survive-without-plm",
+    "seoTitle": "Breaking the Silos: Why Modern Businesses Can’t Survive Without PLM",
+    "seoDescription": "Imagine this nightmare scenario: Your engineering team updates a 3D product model, but the manufacturing plant on the other side of the world builds 10,000 unit",
+    "seoKeywords": [
+      "product",
+      "system",
+      "data",
+      "time",
+      "management",
+      "strategy",
+      "market",
+      "core",
+      "centralized",
+      "compliance"
     ]
   }
 ]
