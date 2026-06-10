@@ -2,7 +2,7 @@
 title: Astra Blogs Library Documentation
 slug: astra-blogs-library-documentation
 date: '2026-06-04T13:29:54.004Z'
-updatedAt: '2026-06-04T13:36:45.935Z'
+updatedAt: '2026-06-10T16:57:35.651Z'
 updatedBy: Santhosh Shanmugam
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
@@ -32,6 +32,10 @@ seoKeywords:
   - astrablogslib
   - markdown
   - yaml
+draft: true
+cms_status: draft
+cms_author: Santhosh Shanmugam
+cms_last_modified: '2026-06-10T16:57:37.995Z'
 ---
 
 # Astra Blogs Library Documentation
