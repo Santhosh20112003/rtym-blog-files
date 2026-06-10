@@ -1,8 +1,8 @@
 ---
 title: 'Breaking the Silos: Why Modern Businesses Can’t Survive Without PLM'
 slug: breaking-the-silos-why-modern-businesses-cant-survive-without-plm
-date: '2026-06-11T17:29:00.000Z'
-updatedAt: '2026-06-10T17:28:46.325Z'
+date: '2026-06-10T17:32:00.000Z'
+updatedAt: '2026-06-10T17:31:08.664Z'
 updatedBy: Santhosh Shanmugam
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
