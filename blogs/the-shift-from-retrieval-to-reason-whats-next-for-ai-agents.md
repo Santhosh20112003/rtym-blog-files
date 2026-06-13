@@ -2,7 +2,7 @@
 title: 'The Shift from Retrieval to Reason: What’s Next for AI Agents'
 slug: the-shift-from-retrieval-to-reason-whats-next-for-ai-agents
 date: '2026-05-25T09:47:08.127Z'
-updatedAt: '2026-05-29T10:32:52.992Z'
+updatedAt: '2026-06-13T18:51:00.136Z'
 updatedBy: Santhosh Shanmugam
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
@@ -36,6 +36,7 @@ seoKeywords:
   - agent vector db
   - agent vector image
   - agent vector png
+status: in-review
 ---
 
 # The Shift from Retrieval to Reason: What’s Next for AI Agents
