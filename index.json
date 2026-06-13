@@ -3,7 +3,7 @@
     "title": "The Dawn of Agentic AI: From Passive Assistants to Autonomous Executives",
     "slug": "the-dawn-of-agentic-ai-from-passive-assistants-to-autonomous-executives",
     "date": "2026-05-29T10:57:41.008Z",
-    "updatedAt": "2026-06-13T18:56:59.654Z",
+    "updatedAt": "2026-06-13T19:38:15.994Z",
     "updatedBy": "Santhosh Shanmugam",
     "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
     "description": "In the rapidly evolving landscape of artificial intelligence, a profound paradigm shift is underway. For the past few years, the world has been captivated by Ge",
@@ -30,13 +30,13 @@
       "agentic agent icon",
       "agentic agent meaning"
     ],
-    "status": "in-review"
+    "status": "published"
   },
   {
     "title": "Astra Blogs Library Documentation",
     "slug": "astra-blogs-library-documentation",
     "date": "2026-06-04T13:29:54.004Z",
-    "updatedAt": "2026-06-04T13:36:45.935Z",
+    "updatedAt": "2026-06-13T19:38:28.173Z",
     "updatedBy": "Santhosh Shanmugam",
     "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
     "description": "astra blogs js library",
@@ -65,13 +65,14 @@
       "astrablogslib",
       "markdown",
       "yaml"
-    ]
+    ],
+    "status": "published"
   },
   {
     "title": "Breaking the Silos: Why Modern Businesses Can’t Survive Without PLM",
     "slug": "breaking-the-silos-why-modern-businesses-cant-survive-without-plm",
     "date": "2026-06-10T17:32:00.000Z",
-    "updatedAt": "2026-06-10T17:31:08.664Z",
+    "updatedAt": "2026-06-13T19:38:34.636Z",
     "updatedBy": "Santhosh Shanmugam",
     "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
     "description": "Imagine this nightmare scenario: Your engineering team updates a 3D product model, but the manufacturing plant on the other side of the world builds 10,000 unit",
@@ -100,13 +101,14 @@
       "core",
       "centralized",
       "compliance"
-    ]
+    ],
+    "status": "published"
   },
   {
     "title": "Global Finance Update: Key Market Trends Shaping June 2026",
     "slug": "global-finance-update-key-market-trends-shaping-june-2026",
     "date": "2026-06-13T16:57:00.000Z",
-    "updatedAt": "2026-06-13T16:55:45.759Z",
+    "updatedAt": "2026-06-13T19:38:38.728Z",
     "updatedBy": "Santhosh Shanmugam",
     "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
     "description": "Published: June 2026\r\n\r\nThe global financial landscape is experiencing renewed volatility as central banks, inflation concerns, and geopolitical tensions contin",
@@ -132,13 +134,14 @@
       "inflation central europe",
       "central inflation system",
       "central inflation tire system"
-    ]
+    ],
+    "status": "published"
   },
   {
     "title": "The Shift from Retrieval to Reason: What’s Next for AI Agents",
     "slug": "the-shift-from-retrieval-to-reason-whats-next-for-ai-agents",
     "date": "2026-05-25T09:47:08.127Z",
-    "updatedAt": "2026-06-13T18:53:03.666Z",
+    "updatedAt": "2026-06-13T19:38:43.135Z",
     "updatedBy": "Santhosh Shanmugam",
     "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
     "description": "Not long ago, building a state-of-the-art AI application meant mastering the RAG (Retrieval-Augmented Generation) pipeline. You chunks text, generated vector em",
@@ -165,6 +168,6 @@
       "agent vector image",
       "agent vector png"
     ],
-    "status": "draft"
+    "status": "published"
   }
 ]
