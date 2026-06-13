@@ -1,38 +1,5 @@
 [
   {
-    "title": "The Shift from Retrieval to Reason: What’s Next for AI Agents",
-    "slug": "the-shift-from-retrieval-to-reason-whats-next-for-ai-agents",
-    "date": "2026-05-25T09:47:08.127Z",
-    "updatedAt": "2026-06-13T18:51:00.136Z",
-    "updatedBy": "Santhosh Shanmugam",
-    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
-    "description": "Not long ago, building a state-of-the-art AI application meant mastering the RAG (Retrieval-Augmented Generation) pipeline. You chunks text, generated vector em",
-    "tags": [
-      "agents",
-      "vector",
-      "memory",
-      "relationships",
-      "architectural",
-      "generation",
-      "autonomous",
-      "developers"
-    ],
-    "cover": "https://res.cloudinary.com/djexzbqvx/image/upload/v1779466400/%22website-blog-images%22/ChatGPT_Image_May_22_2026_09_30_58_PM_pds9hi.png",
-    "canonical": "https://www.rtymaiworks.com/blog/the-shift-from-retrieval-to-reason-whats-next-for-ai-agents",
-    "seoTitle": "The Shift from Retrieval to Reason: What’s Next for AI Agents",
-    "seoDescription": "Not long ago, building a state-of-the-art AI application meant mastering the RAG (Retrieval-Augmented Generation) pipeline. You chunks text, generated vector em",
-    "seoKeywords": [
-      "agent vector gfl",
-      "vector agents ai",
-      "agency vector",
-      "agent vector host",
-      "agent vector db",
-      "agent vector image",
-      "agent vector png"
-    ],
-    "status": "in-review"
-  },
-  {
     "title": "The Dawn of Agentic AI: From Passive Assistants to Autonomous Executives",
     "slug": "the-dawn-of-agentic-ai-from-passive-assistants-to-autonomous-executives",
     "date": "2026-05-29T10:57:41.008Z",
@@ -165,5 +132,38 @@
       "central inflation system",
       "central inflation tire system"
     ]
+  },
+  {
+    "title": "The Shift from Retrieval to Reason: What’s Next for AI Agents",
+    "slug": "the-shift-from-retrieval-to-reason-whats-next-for-ai-agents",
+    "date": "2026-05-25T09:47:08.127Z",
+    "updatedAt": "2026-06-13T18:53:03.666Z",
+    "updatedBy": "Santhosh Shanmugam",
+    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
+    "description": "Not long ago, building a state-of-the-art AI application meant mastering the RAG (Retrieval-Augmented Generation) pipeline. You chunks text, generated vector em",
+    "tags": [
+      "agents",
+      "vector",
+      "memory",
+      "relationships",
+      "architectural",
+      "generation",
+      "autonomous",
+      "developers"
+    ],
+    "cover": "https://res.cloudinary.com/djexzbqvx/image/upload/v1779466400/%22website-blog-images%22/ChatGPT_Image_May_22_2026_09_30_58_PM_pds9hi.png",
+    "canonical": "https://www.rtymaiworks.com/blog/the-shift-from-retrieval-to-reason-whats-next-for-ai-agents",
+    "seoTitle": "The Shift from Retrieval to Reason: What’s Next for AI Agents",
+    "seoDescription": "Not long ago, building a state-of-the-art AI application meant mastering the RAG (Retrieval-Augmented Generation) pipeline. You chunks text, generated vector em",
+    "seoKeywords": [
+      "agent vector gfl",
+      "vector agents ai",
+      "agency vector",
+      "agent vector host",
+      "agent vector db",
+      "agent vector image",
+      "agent vector png"
+    ],
+    "status": "draft"
   }
 ]
