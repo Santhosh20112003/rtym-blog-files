@@ -1,8 +1,8 @@
 ---
 title: 'Global Finance Update: Key Market Trends Shaping June 2026'
 slug: global-finance-update-key-market-trends-shaping-june-2026
-date: '2026-06-12T08:53:25.750Z'
-updatedAt: '2026-06-12T08:53:25.750Z'
+date: '2026-06-13T16:57:00.000Z'
+updatedAt: '2026-06-13T16:55:45.759Z'
 updatedBy: Santhosh Shanmugam
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
@@ -31,7 +31,6 @@ seoKeywords:
   - central inflation system
   - central inflation tire system
 ---
-
 
 ![1780419302446 blog](https://raw.githubusercontent.com/Santhosh20112003/rtym-blog-files/main/assets/images/1780419302446-blog.png)
 # Global Finance Update: Key Market Trends Shaping June 2026
