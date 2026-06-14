@@ -108,7 +108,7 @@
     "title": "Global Finance Update: Key Market Trends Shaping June 2026",
     "slug": "global-finance-update-key-market-trends-shaping-june-2026",
     "date": "2026-06-13T16:57:00.000Z",
-    "updatedAt": "2026-06-13T19:38:38.728Z",
+    "updatedAt": "2026-06-14T11:36:34.530Z",
     "updatedBy": "Santhosh Shanmugam",
     "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
     "description": "Published: June 2026\r\n\r\nThe global financial landscape is experiencing renewed volatility as central banks, inflation concerns, and geopolitical tensions contin",
@@ -135,13 +135,13 @@
       "central inflation system",
       "central inflation tire system"
     ],
-    "status": "published"
+    "status": "in-review"
   },
   {
     "title": "The Shift from Retrieval to Reason: What’s Next for AI Agents",
     "slug": "the-shift-from-retrieval-to-reason-whats-next-for-ai-agents",
     "date": "2026-05-25T09:47:08.127Z",
-    "updatedAt": "2026-06-13T19:38:43.135Z",
+    "updatedAt": "2026-06-14T11:36:26.230Z",
     "updatedBy": "Santhosh Shanmugam",
     "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
     "description": "Not long ago, building a state-of-the-art AI application meant mastering the RAG (Retrieval-Augmented Generation) pipeline. You chunks text, generated vector em",
@@ -168,6 +168,6 @@
       "agent vector image",
       "agent vector png"
     ],
-    "status": "published"
+    "status": "draft"
   }
 ]
