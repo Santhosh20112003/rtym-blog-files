@@ -1,0 +1,102 @@
+[
+  {
+    "id": "event-model",
+    "name": "Event Model",
+    "description": "",
+    "fields": [
+      {
+        "name": "title",
+        "key": "title",
+        "label": "Event Title",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "description",
+        "key": "description",
+        "label": "Description",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "name": "category",
+        "key": "category",
+        "label": "Category",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Tech",
+          "Design",
+          "Marketing",
+          "Workshop",
+          "Conference"
+        ]
+      },
+      {
+        "name": "date",
+        "key": "date",
+        "label": "Event Date",
+        "type": "date",
+        "required": true
+      },
+      {
+        "name": "time",
+        "key": "time",
+        "label": "Event Time",
+        "type": "time",
+        "required": true
+      },
+      {
+        "name": "location",
+        "key": "location",
+        "label": "Location",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "status",
+        "key": "status",
+        "label": "Status",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Scheduled",
+          "Completed",
+          "Cancelled"
+        ]
+      },
+      {
+        "name": "organizer",
+        "key": "organizer",
+        "label": "Organizer Details",
+        "type": "object",
+        "required": false,
+        "fields": [
+          {
+            "name": "name",
+            "key": "name",
+            "label": "Name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "email",
+            "key": "email",
+            "label": "Email",
+            "type": "email",
+            "required": false
+          }
+        ]
+      },
+      {
+        "name": "image",
+        "key": "image",
+        "label": "Event Image",
+        "type": "image",
+        "required": false
+      }
+    ],
+    "createdAt": "2026-08-21T12:51:01.123Z",
+    "updatedAt": "2026-08-21T12:51:01.123Z"
+  }
+]
