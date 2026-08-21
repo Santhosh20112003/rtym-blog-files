@@ -1,0 +1,53 @@
+[
+  {
+    "title": "AI & Cloud Technology Summit 2026",
+    "description": "A conference covering Generative AI, cloud computing, and modern application development.",
+    "category": "Tech",
+    "date": "2026-09-15",
+    "time": "10:00",
+    "location": "Chennai Trade Centre, Chennai",
+    "status": "Scheduled",
+    "organizer": {
+      "name": "Tech India Events",
+      "email": "events@techindia.com"
+    },
+    "image": "/events/ai-cloud-summit.jpg",
+    "id": "rec_ojlaoci_mt2ypzr2",
+    "createdAt": "2026-08-21T13:05:49.886Z",
+    "updatedAt": "2026-08-21T13:05:49.886Z"
+  },
+  {
+    "title": "Modern UI/UX Design Workshop",
+    "description": "A hands-on workshop focused on modern UI/UX design principles and design systems.",
+    "category": "Design",
+    "date": "2026-09-22",
+    "time": "14:00",
+    "location": "Bangalore Innovation Hub, Bangalore",
+    "status": "Scheduled",
+    "organizer": {
+      "name": "Design Community India",
+      "email": "hello@designcommunity.in"
+    },
+    "image": "/events/uiux-workshop.jpg",
+    "id": "rec_1c1o7xb_mt2ypzr2",
+    "createdAt": "2026-08-21T13:05:49.886Z",
+    "updatedAt": "2026-08-21T13:05:49.886Z"
+  },
+  {
+    "title": "Digital Marketing Masterclass",
+    "description": "Learn SEO, content marketing, social media strategies, and performance marketing.",
+    "category": "Marketing",
+    "date": "2026-08-10",
+    "time": "11:00",
+    "location": "Online",
+    "status": "Completed",
+    "organizer": {
+      "name": "Growth Academy",
+      "email": "contact@growthacademy.com"
+    },
+    "image": "/events/marketing-masterclass.jpg",
+    "id": "rec_vhxtvyg_mt2ypzr2",
+    "createdAt": "2026-08-21T13:05:49.886Z",
+    "updatedAt": "2026-08-21T13:05:49.886Z"
+  }
+]
