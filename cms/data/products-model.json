@@ -22,27 +22,6 @@
     "updatedAt": "2026-08-22T09:00:34.954Z"
   },
   {
-    "name": "Galaxy Book 6",
-    "description": "Lightweight performance laptop designed for productivity and everyday use.",
-    "category": "Electronics",
-    "price": 89999,
-    "stock": 18,
-    "status": "Active",
-    "brand": "Samsung",
-    "images": [
-      "https://m.media-amazon.com/images/I/71k3Dm9qo2L._AC_UF1000,1000_QL80_.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWs_02BXd-kPrhq18cUIIBQi6-Wn401VjIEyKokZs0wwCvUeLMSTIcUg&s=10"
-    ],
-    "dimensions": {
-      "length": 31.2,
-      "width": 22.1,
-      "height": 1.6
-    },
-    "id": "rec_c9c9jkr_mt45egay",
-    "createdAt": "2026-08-22T09:00:34.954Z",
-    "updatedAt": "2026-08-22T18:22:34.404Z"
-  },
-  {
     "name": "Wireless Headphones",
     "description": "Bluetooth wireless headphones with active noise cancellation.",
     "category": "Accessories",
