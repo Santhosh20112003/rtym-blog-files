@@ -4,7 +4,7 @@
     "description": "A conference covering Generative AI, cloud computing, and modern application development.",
     "category": "Tech",
     "date": "2026-09-15",
-    "time": "10:00",
+    "time": "11:00",
     "location": "Chennai Trade Centre, Chennai",
     "status": "Scheduled",
     "organizer": {
@@ -14,7 +14,7 @@
     "image": "/events/ai-cloud-summit.jpg",
     "id": "rec_ojlaoci_mt2ypzr2",
     "createdAt": "2026-08-21T13:05:49.886Z",
-    "updatedAt": "2026-08-21T13:05:49.886Z"
+    "updatedAt": "2026-08-22T06:49:33.881Z"
   },
   {
     "title": "Modern UI/UX Design Workshop",
