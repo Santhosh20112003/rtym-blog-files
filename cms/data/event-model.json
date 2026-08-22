@@ -32,22 +32,5 @@
     "id": "rec_1c1o7xb_mt2ypzr2",
     "createdAt": "2026-08-21T13:05:49.886Z",
     "updatedAt": "2026-08-21T13:05:49.886Z"
-  },
-  {
-    "title": "Digital Marketing Masterclass",
-    "description": "Learn SEO, content marketing, social media strategies, and performance marketing.",
-    "category": "Marketing",
-    "date": "2026-08-10",
-    "time": "11:00",
-    "location": "Online",
-    "status": "Completed",
-    "organizer": {
-      "name": "Growth Academy",
-      "email": "contact@growthacademy.com"
-    },
-    "image": "/events/marketing-masterclass.jpg",
-    "id": "rec_vhxtvyg_mt2ypzr2",
-    "createdAt": "2026-08-21T13:05:49.886Z",
-    "updatedAt": "2026-08-21T13:05:49.886Z"
   }
 ]
