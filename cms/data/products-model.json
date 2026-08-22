@@ -30,9 +30,8 @@
     "status": "Active",
     "brand": "Samsung",
     "images": [
-      {
-        "url": "/products/galaxy-book-6.jpg"
-      }
+      "https://m.media-amazon.com/images/I/71k3Dm9qo2L._AC_UF1000,1000_QL80_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWs_02BXd-kPrhq18cUIIBQi6-Wn401VjIEyKokZs0wwCvUeLMSTIcUg&s=10"
     ],
     "dimensions": {
       "length": 31.2,
@@ -41,7 +40,7 @@
     },
     "id": "rec_c9c9jkr_mt45egay",
     "createdAt": "2026-08-22T09:00:34.954Z",
-    "updatedAt": "2026-08-22T09:00:34.954Z"
+    "updatedAt": "2026-08-22T18:22:34.404Z"
   },
   {
     "name": "Wireless Headphones",
