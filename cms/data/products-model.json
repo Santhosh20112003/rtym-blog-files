@@ -26,7 +26,7 @@
     "category": "Accessories",
     "price": 5999,
     "stock": 5,
-    "status": "Out of Stock",
+    "status": "Active",
     "brand": "SoundMax",
     "images": [
       "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRQc0Kf50x4RBNwv2jbkckcYbjzlssn6iakcN9oI2QHplkzVqosPjYjk80ATBxA6Q3FcxgwdpVU1XtcS3s3WCcRar-QkzcJwj20nCRF0E_EeG548wgoZsG0B6TU",
@@ -40,6 +40,6 @@
     },
     "id": "rec_fccgidx_mt45egay",
     "createdAt": "2026-08-22T09:00:34.954Z",
-    "updatedAt": "2026-08-22T18:40:45.037Z"
+    "updatedAt": "2026-08-22T18:56:26.483Z"
   }
 ]
