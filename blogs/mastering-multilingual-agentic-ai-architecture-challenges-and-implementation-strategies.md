@@ -5,7 +5,7 @@ title: >-
 slug: >-
   mastering-multilingual-agentic-ai-architecture-challenges-and-implementation-strategies
 date: '2026-08-11T18:08:38.636Z'
-updatedAt: '2026-08-11T18:08:38.636Z'
+updatedAt: '2026-08-22T11:56:37.995Z'
 updatedBy: Santhosh Shanmugam
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
@@ -22,7 +22,8 @@ tags:
   - semantic
   - locale
   - reasoning
-cover: ''
+cover: >-
+  https://raw.githubusercontent.com/Santhosh20112003/rtym-blog-files/main/assets/images/ai-gen-1782132866426.jpg
 canonical: >-
   https://astrablogs.vercel.app//blog/mastering-multilingual-agentic-ai-architecture-challenges-and-implementation-strategies
 seoTitle: >-
@@ -40,9 +41,8 @@ seoKeywords:
   - language choice in multilingual communities
   - language awareness and multilingualism
   - language policy and multilingualism
-status: draft
+status: published
 ---
-
 
 # Mastering Multilingual Agentic AI: Architecture, Challenges, and Implementation Strategies
 

@@ -171,39 +171,6 @@
     "status": "published"
   },
   {
-    "title": "Mastering Multilingual Agentic AI: Architecture, Challenges, and Implementation Strategies",
-    "slug": "mastering-multilingual-agentic-ai-architecture-challenges-and-implementation-strategies",
-    "date": "2026-08-11T18:08:38.636Z",
-    "updatedAt": "2026-08-11T18:08:38.636Z",
-    "updatedBy": "Santhosh Shanmugam",
-    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
-    "description": "In the rapidly evolving landscape of artificial intelligence, one phrase has captured the imagination of technologists and business leaders alike: Agentic AI. U",
-    "tags": [
-      "language",
-      "multilingual",
-      "tool",
-      "cross",
-      "agentic",
-      "semantic",
-      "locale",
-      "reasoning"
-    ],
-    "cover": "",
-    "canonical": "https://astrablogs.vercel.app//blog/mastering-multilingual-agentic-ai-architecture-challenges-and-implementation-strategies",
-    "seoTitle": "Mastering Multilingual Agentic AI: Architecture, Challenges, and Implementation Strategies",
-    "seoDescription": "In the rapidly evolving landscape of artificial intelligence, one phrase has captured the imagination of technologists and business leaders alike: Agentic AI. U",
-    "seoKeywords": [
-      "language multilingual meaning",
-      "multilingual language models",
-      "multilingual language learners",
-      "multilingual language development",
-      "language choice in multilingual communities",
-      "language awareness and multilingualism",
-      "language policy and multilingualism"
-    ],
-    "status": "draft"
-  },
-  {
     "title": "Mastering Aptitude: The Key to Landing Your Dream Placement in College",
     "slug": "mastering-aptitude-the-key-to-landing-your-dream-placement-in-college",
     "date": "2026-08-22T06:40:26.913Z",
@@ -233,6 +200,39 @@
       "name",
       "test",
       "placement"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Mastering Multilingual Agentic AI: Architecture, Challenges, and Implementation Strategies",
+    "slug": "mastering-multilingual-agentic-ai-architecture-challenges-and-implementation-strategies",
+    "date": "2026-08-11T18:08:38.636Z",
+    "updatedAt": "2026-08-22T11:56:37.995Z",
+    "updatedBy": "Santhosh Shanmugam",
+    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
+    "description": "In the rapidly evolving landscape of artificial intelligence, one phrase has captured the imagination of technologists and business leaders alike: Agentic AI. U",
+    "tags": [
+      "language",
+      "multilingual",
+      "tool",
+      "cross",
+      "agentic",
+      "semantic",
+      "locale",
+      "reasoning"
+    ],
+    "cover": "https://raw.githubusercontent.com/Santhosh20112003/rtym-blog-files/main/assets/images/ai-gen-1782132866426.jpg",
+    "canonical": "https://astrablogs.vercel.app//blog/mastering-multilingual-agentic-ai-architecture-challenges-and-implementation-strategies",
+    "seoTitle": "Mastering Multilingual Agentic AI: Architecture, Challenges, and Implementation Strategies",
+    "seoDescription": "In the rapidly evolving landscape of artificial intelligence, one phrase has captured the imagination of technologists and business leaders alike: Agentic AI. U",
+    "seoKeywords": [
+      "language multilingual meaning",
+      "multilingual language models",
+      "multilingual language learners",
+      "multilingual language development",
+      "language choice in multilingual communities",
+      "language awareness and multilingualism",
+      "language policy and multilingualism"
     ],
     "status": "published"
   }
