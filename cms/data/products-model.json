@@ -8,9 +8,8 @@
     "status": "Active",
     "brand": "Apple",
     "images": [
-      {
-        "url": "/products/iphone-17-pro.jpg"
-      }
+      "https://www.apple.com/v/iphone-17-pro/g/images/overview/product-viewer/initial__d2ghrz27b54y_large_2x.jpg",
+      "https://www.apple.com/v/iphone-17-pro/g/images/overview/welcome/hero__bsveixlwbms2_xlarge.jpg"
     ],
     "dimensions": {
       "length": 15,
@@ -19,7 +18,7 @@
     },
     "id": "rec_i65gye6_mt45egay",
     "createdAt": "2026-08-22T09:00:34.954Z",
-    "updatedAt": "2026-08-22T09:00:34.954Z"
+    "updatedAt": "2026-08-22T18:32:36.676Z"
   },
   {
     "name": "Wireless Headphones",
