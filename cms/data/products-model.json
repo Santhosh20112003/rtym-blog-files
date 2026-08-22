@@ -1,0 +1,90 @@
+[
+  {
+    "name": "iPhone 17 Pro",
+    "description": "Premium smartphone with advanced camera system and high-performance processor.",
+    "category": "Electronics",
+    "price": 129999,
+    "stock": 25,
+    "status": "Active",
+    "brand": "Apple",
+    "images": [
+      {
+        "url": "/products/iphone-17-pro.jpg"
+      }
+    ],
+    "dimensions": {
+      "length": 15,
+      "width": 7.2,
+      "height": 0.8
+    },
+    "id": "rec_i65gye6_mt45egay",
+    "createdAt": "2026-08-22T09:00:34.954Z",
+    "updatedAt": "2026-08-22T09:00:34.954Z"
+  },
+  {
+    "name": "Galaxy Book 6",
+    "description": "Lightweight performance laptop designed for productivity and everyday use.",
+    "category": "Electronics",
+    "price": 89999,
+    "stock": 18,
+    "status": "Active",
+    "brand": "Samsung",
+    "images": [
+      {
+        "url": "/products/galaxy-book-6.jpg"
+      }
+    ],
+    "dimensions": {
+      "length": 31.2,
+      "width": 22.1,
+      "height": 1.6
+    },
+    "id": "rec_c9c9jkr_mt45egay",
+    "createdAt": "2026-08-22T09:00:34.954Z",
+    "updatedAt": "2026-08-22T09:00:34.954Z"
+  },
+  {
+    "name": "Classic Cotton T-Shirt",
+    "description": "Comfortable regular-fit cotton T-shirt suitable for everyday wear.",
+    "category": "Clothing",
+    "price": 999,
+    "stock": 120,
+    "status": "Active",
+    "brand": "UrbanWear",
+    "images": [
+      {
+        "url": "/products/cotton-tshirt.jpg"
+      }
+    ],
+    "dimensions": {
+      "length": 70,
+      "width": 50,
+      "height": 2
+    },
+    "id": "rec_n9rnobl_mt45egay",
+    "createdAt": "2026-08-22T09:00:34.954Z",
+    "updatedAt": "2026-08-22T09:00:34.954Z"
+  },
+  {
+    "name": "Wireless Headphones",
+    "description": "Bluetooth wireless headphones with active noise cancellation.",
+    "category": "Accessories",
+    "price": 5999,
+    "stock": 0,
+    "status": "Out of Stock",
+    "brand": "SoundMax",
+    "images": [
+      {
+        "url": "/products/wireless-headphones.jpg"
+      }
+    ],
+    "dimensions": {
+      "length": 18,
+      "width": 16,
+      "height": 8
+    },
+    "id": "rec_fccgidx_mt45egay",
+    "createdAt": "2026-08-22T09:00:34.954Z",
+    "updatedAt": "2026-08-22T09:00:34.954Z"
+  }
+]
