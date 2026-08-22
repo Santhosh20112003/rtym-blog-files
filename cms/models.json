@@ -94,10 +94,17 @@
         "label": "Event Image",
         "type": "image",
         "required": false
+      },
+      {
+        "name": "link",
+        "key": "link",
+        "label": "link",
+        "type": "url",
+        "required": false
       }
     ],
     "createdAt": "2026-08-21T12:51:01.123Z",
-    "updatedAt": "2026-08-21T12:51:01.123Z"
+    "updatedAt": "2026-08-22T17:05:26.361Z"
   },
   {
     "id": "products-model",
