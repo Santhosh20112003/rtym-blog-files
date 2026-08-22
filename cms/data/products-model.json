@@ -21,17 +21,17 @@
     "updatedAt": "2026-08-22T18:32:36.676Z"
   },
   {
-    "name": "Wireless Headphones",
-    "description": "Bluetooth wireless headphones with active noise cancellation.",
+    "name": "Apple AirPods Max 2 Wireless Over-Ear Closed-Back Headphones",
+    "description": "The ultimate over‑ear personal listening experience in five vibrant colours with up to 1.5x more Active Noise Cancellation than the previous generation. Footnote AirPods Max 2 deliver stunningly detailed high‑fidelity audio. Adaptive Audio ensures optimal listening across every environment. Footnote Live Translation helps you communicate across languages. Footnote  Conversation Awareness makes it easy to talk to those around you. Footnote USB‑C enables Lossless Audio Footnote and easy charging. And you get up to 20 hours of listening time on a single charge with Active Noise Cancellation enabled. ",
     "category": "Accessories",
     "price": 5999,
-    "stock": 0,
+    "stock": 5,
     "status": "Out of Stock",
     "brand": "SoundMax",
     "images": [
-      {
-        "url": "/products/wireless-headphones.jpg"
-      }
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRQc0Kf50x4RBNwv2jbkckcYbjzlssn6iakcN9oI2QHplkzVqosPjYjk80ATBxA6Q3FcxgwdpVU1XtcS3s3WCcRar-QkzcJwj20nCRF0E_EeG548wgoZsG0B6TU",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSHt6eY_tdB2E9iBzaor3Q9OTZcxeDSjzxxgjsUV8qJ9cywZ5lSq7Z8L_wwKLOsgLWi85ZKUxMS77ZMgfAfU67DSKzNvYfKA07TdhwnNHJmvfs6tdk7pKIKDfYh",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSruPl5Ff7eFerSNkuAgVrvi4phMzzMB8u2Mp1CPSkBc78t8t_O_ziyVoXLHpbLSBaCiahcrvu_0H5tcqExGCEW_CtrST5Dk0qN8NucvEmSrQdkgtB3-X5Yifs"
     ],
     "dimensions": {
       "length": 18,
@@ -40,6 +40,6 @@
     },
     "id": "rec_fccgidx_mt45egay",
     "createdAt": "2026-08-22T09:00:34.954Z",
-    "updatedAt": "2026-08-22T09:00:34.954Z"
+    "updatedAt": "2026-08-22T18:37:03.053Z"
   }
 ]
