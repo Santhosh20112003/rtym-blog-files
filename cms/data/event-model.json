@@ -1,5 +1,22 @@
 [
   {
+    "id": "rec_hq4lf6j_mt4jcrbu",
+    "createdAt": "2026-08-22T15:31:10.554Z",
+    "updatedAt": "2026-08-22T15:33:38.771Z",
+    "title": "Google Cloud Event 2026",
+    "description": "Explore the latest innovations in Google Cloud, including cloud computing, AI/ML, data analytics, serverless technologies, Kubernetes, and modern application development. Learn from industry experts, discover real-world use cases, and connect with cloud professionals to understand how Google Cloud can accelerate digital transformation and AI-powered solutions.",
+    "category": "Conference",
+    "date": "2026-08-27",
+    "time": "10:00",
+    "location": "Chennai",
+    "status": "Scheduled",
+    "organizer": {
+      "name": "Astra Blog",
+      "email": "astra@gmail.com"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROFRUYCyId261R4sSUtUTwXtKeuL7FT1CdkP81sHMcSWSGEZm7zMFn_WQ&s=10"
+  },
+  {
     "title": "AI & Cloud Technology Summit 2026",
     "description": "A conference covering Generative AI, cloud computing, and modern application development.",
     "category": "Tech",
