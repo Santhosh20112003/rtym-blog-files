@@ -98,5 +98,112 @@
     ],
     "createdAt": "2026-08-21T12:51:01.123Z",
     "updatedAt": "2026-08-21T12:51:01.123Z"
+  },
+  {
+    "id": "products-model",
+    "name": "Products Model",
+    "description": "",
+    "fields": [
+      {
+        "name": "name",
+        "key": "name",
+        "label": "Product Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "description",
+        "key": "description",
+        "label": "Description",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "name": "category",
+        "key": "category",
+        "label": "Category",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Electronics",
+          "Clothing",
+          "Home",
+          "Books",
+          "Accessories"
+        ]
+      },
+      {
+        "name": "price",
+        "key": "price",
+        "label": "Price",
+        "type": "number",
+        "required": true
+      },
+      {
+        "name": "stock",
+        "key": "stock",
+        "label": "Stock Quantity",
+        "type": "number",
+        "required": true
+      },
+      {
+        "name": "status",
+        "key": "status",
+        "label": "Status",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Active",
+          "Out of Stock",
+          "Discontinued"
+        ]
+      },
+      {
+        "name": "brand",
+        "key": "brand",
+        "label": "Brand",
+        "type": "text",
+        "required": false
+      },
+      {
+        "name": "images",
+        "key": "images",
+        "label": "Product Images",
+        "type": "list",
+        "required": false
+      },
+      {
+        "name": "dimensions",
+        "key": "dimensions",
+        "label": "Product Dimensions",
+        "type": "object",
+        "required": false,
+        "fields": [
+          {
+            "name": "length",
+            "key": "length",
+            "label": "Length",
+            "type": "number",
+            "required": false
+          },
+          {
+            "name": "width",
+            "key": "width",
+            "label": "Width",
+            "type": "number",
+            "required": false
+          },
+          {
+            "name": "height",
+            "key": "height",
+            "label": "Height",
+            "type": "number",
+            "required": false
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-08-22T08:58:18.892Z",
+    "updatedAt": "2026-08-22T08:58:18.892Z"
   }
 ]
