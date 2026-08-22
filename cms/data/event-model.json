@@ -2,7 +2,7 @@
   {
     "id": "rec_hq4lf6j_mt4jcrbu",
     "createdAt": "2026-08-22T15:31:10.554Z",
-    "updatedAt": "2026-08-22T15:33:38.771Z",
+    "updatedAt": "2026-08-22T17:08:02.145Z",
     "title": "Google Cloud Event 2026",
     "description": "Explore the latest innovations in Google Cloud, including cloud computing, AI/ML, data analytics, serverless technologies, Kubernetes, and modern application development. Learn from industry experts, discover real-world use cases, and connect with cloud professionals to understand how Google Cloud can accelerate digital transformation and AI-powered solutions.",
     "category": "Conference",
@@ -14,7 +14,8 @@
       "name": "Astra Blog",
       "email": "astra@gmail.com"
     },
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROFRUYCyId261R4sSUtUTwXtKeuL7FT1CdkP81sHMcSWSGEZm7zMFn_WQ&s=10"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROFRUYCyId261R4sSUtUTwXtKeuL7FT1CdkP81sHMcSWSGEZm7zMFn_WQ&s=10",
+    "link": "https://demoqa.com/automation-practice-form"
   },
   {
     "title": "AI & Cloud Technology Summit 2026",
@@ -31,7 +32,8 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3vqsxUeWqVZeFkqrNaGNRPjzezmbF21S8yLBk9_M2XXEZjHohDYyQOJ_&s=10",
     "id": "rec_ojlaoci_mt2ypzr2",
     "createdAt": "2026-08-21T13:05:49.886Z",
-    "updatedAt": "2026-08-22T12:44:55.437Z"
+    "updatedAt": "2026-08-22T17:08:41.342Z",
+    "link": "https://demoqa.com/automation-practice-form"
   },
   {
     "title": "Modern UI/UX Design Workshop",
@@ -48,6 +50,7 @@
     "image": "https://www.ripplix.com/storage/blog-images/01KPQ7E3TF9GMKJEX4442HYW0X.jpg",
     "id": "rec_1c1o7xb_mt2ypzr2",
     "createdAt": "2026-08-21T13:05:49.886Z",
-    "updatedAt": "2026-08-22T12:45:58.063Z"
+    "updatedAt": "2026-08-22T17:08:50.540Z",
+    "link": "https://demoqa.com/automation-practice-form"
   }
 ]
