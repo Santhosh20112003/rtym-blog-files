@@ -44,28 +44,6 @@
     "updatedAt": "2026-08-22T09:00:34.954Z"
   },
   {
-    "name": "Classic Cotton T-Shirt",
-    "description": "Comfortable regular-fit cotton T-shirt suitable for everyday wear.",
-    "category": "Clothing",
-    "price": 999,
-    "stock": 120,
-    "status": "Active",
-    "brand": "UrbanWear",
-    "images": [
-      {
-        "url": "/products/cotton-tshirt.jpg"
-      }
-    ],
-    "dimensions": {
-      "length": 70,
-      "width": 50,
-      "height": 2
-    },
-    "id": "rec_n9rnobl_mt45egay",
-    "createdAt": "2026-08-22T09:00:34.954Z",
-    "updatedAt": "2026-08-22T09:00:34.954Z"
-  },
-  {
     "name": "Wireless Headphones",
     "description": "Bluetooth wireless headphones with active noise cancellation.",
     "category": "Accessories",
