@@ -5,7 +5,7 @@ title: >-
 slug: >-
   mastering-multilingual-agentic-ai-architecture-challenges-and-implementation-strategies
 date: '2026-08-11T18:08:38.636Z'
-updatedAt: '2026-08-22T11:56:37.995Z'
+updatedAt: '2026-09-04T17:57:17.196Z'
 updatedBy: Santhosh Shanmugam
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
@@ -41,7 +41,7 @@ seoKeywords:
   - language choice in multilingual communities
   - language awareness and multilingualism
   - language policy and multilingualism
-status: published
+status: draft
 ---
 
 # Mastering Multilingual Agentic AI: Architecture, Challenges, and Implementation Strategies
