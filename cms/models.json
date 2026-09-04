@@ -2,6 +2,8 @@
   {
     "id": "event-model",
     "name": "Event Model",
+    "label": "Events",
+    "icon": "FiCalendar",
     "description": "",
     "fields": [
       {
@@ -104,13 +106,13 @@
       }
     ],
     "createdAt": "2026-08-21T12:51:01.123Z",
-    "updatedAt": "2026-08-22T17:05:26.361Z"
+    "updatedAt": "2026-09-04T18:43:11.400Z"
   },
   {
     "id": "products-model",
     "name": "Products Model",
     "label": "Products",
-    "icon": "FiTruck",
+    "icon": "FiPackage",
     "description": "",
     "fields": [
       {
@@ -213,6 +215,6 @@
       }
     ],
     "createdAt": "2026-08-22T08:58:18.892Z",
-    "updatedAt": "2026-09-04T18:42:05.392Z"
+    "updatedAt": "2026-09-04T18:43:39.593Z"
   }
 ]
