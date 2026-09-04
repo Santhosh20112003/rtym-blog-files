@@ -29,28 +29,10 @@
       "name": "Tech India Events",
       "email": "events@techindia.com"
     },
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3vqsxUeWqVZeFkqrNaGNRPjzezmbF21S8yLBk9_M2XXEZjHohDYyQOJ_&s=10",
+    "image": "https://raw.githubusercontent.com/Santhosh20112003/rtym-blog-files/main/cms/uploads/1788549774894_gemini_generated_image_upcq71upcq71upcq-1.webp",
     "id": "rec_ojlaoci_mt2ypzr2",
     "createdAt": "2026-08-21T13:05:49.886Z",
-    "updatedAt": "2026-08-22T17:08:41.342Z",
-    "link": "https://demoqa.com/automation-practice-form"
-  },
-  {
-    "title": "Modern UI/UX Design Workshop",
-    "description": "A hands-on workshop focused on modern UI/UX design principles and design systems.",
-    "category": "Design",
-    "date": "2026-09-22",
-    "time": "14:00",
-    "location": "Bangalore Innovation Hub, Bangalore",
-    "status": "Scheduled",
-    "organizer": {
-      "name": "Design Community India",
-      "email": "hello@designcommunity.in"
-    },
-    "image": "https://www.ripplix.com/storage/blog-images/01KPQ7E3TF9GMKJEX4442HYW0X.jpg",
-    "id": "rec_1c1o7xb_mt2ypzr2",
-    "createdAt": "2026-08-21T13:05:49.886Z",
-    "updatedAt": "2026-08-22T17:08:50.540Z",
+    "updatedAt": "2026-09-04T19:23:00.647Z",
     "link": "https://demoqa.com/automation-practice-form"
   }
 ]
