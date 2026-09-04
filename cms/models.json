@@ -109,6 +109,8 @@
   {
     "id": "products-model",
     "name": "Products Model",
+    "label": "Products",
+    "icon": "FiTruck",
     "description": "",
     "fields": [
       {
@@ -211,6 +213,6 @@
       }
     ],
     "createdAt": "2026-08-22T08:58:18.892Z",
-    "updatedAt": "2026-08-22T08:58:18.892Z"
+    "updatedAt": "2026-09-04T18:42:05.392Z"
   }
 ]
