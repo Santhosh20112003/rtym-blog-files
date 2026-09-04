@@ -94,7 +94,7 @@
         "name": "image",
         "key": "image",
         "label": "Event Image",
-        "type": "image",
+        "type": "image_upload",
         "required": false
       },
       {
@@ -106,7 +106,7 @@
       }
     ],
     "createdAt": "2026-08-21T12:51:01.123Z",
-    "updatedAt": "2026-09-04T18:43:11.400Z"
+    "updatedAt": "2026-09-04T19:29:14.738Z"
   },
   {
     "id": "products-model",
