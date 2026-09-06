@@ -216,5 +216,80 @@
     ],
     "createdAt": "2026-08-22T08:58:18.892Z",
     "updatedAt": "2026-09-04T18:43:39.593Z"
+  },
+  {
+    "id": "privacy-policy",
+    "name": "Privacy Policy",
+    "label": "Privacy Policy",
+    "modelType": "single",
+    "icon": "FiShield",
+    "description": "GDPR & CCPA-ready comprehensive privacy policy with metadata and a single unified Markdown content body.",
+    "fields": [
+      {
+        "name": "title",
+        "key": "title",
+        "label": "Document Title",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "version",
+        "key": "version",
+        "label": "Version String (e.g. 2.1)",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "effectiveDate",
+        "key": "effectiveDate",
+        "label": "Effective Date",
+        "type": "date",
+        "required": true
+      },
+      {
+        "name": "lastUpdated",
+        "key": "lastUpdated",
+        "label": "Last Modified Date",
+        "type": "date",
+        "required": true
+      },
+      {
+        "name": "companyName",
+        "key": "companyName",
+        "label": "Legal Entity / Company Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "contactEmail",
+        "key": "contactEmail",
+        "label": "Data Protection / Privacy Email",
+        "type": "email",
+        "required": true
+      },
+      {
+        "name": "summary",
+        "key": "summary",
+        "label": "Executive Summary",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "name": "dpoContact",
+        "key": "dpoContact",
+        "label": "Data Protection Officer Details",
+        "type": "text",
+        "required": false
+      },
+      {
+        "name": "content",
+        "key": "content",
+        "label": "Main Privacy Document (Markdown)",
+        "type": "rich_text",
+        "required": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:52:27.122Z",
+    "updatedAt": "2026-09-06T17:52:27.122Z"
   }
 ]
